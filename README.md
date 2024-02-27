@@ -7,12 +7,13 @@
     
 ## technology: [pygame/streamlit]
 
-## application description: รายละเอียดโครงงาน
+## application description: 
+รายละเอียดโครงงาน
 
 ## presentation: 
-*[slide/canva/etc..] link [public/ubu]
+[slide/canva/etc..] link [public/ubu]
 ## video: 
-*link [public/ubu]
+link [public/ubu]
  
  
 xoxoxo
