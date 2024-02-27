@@ -1,8 +1,8 @@
 # oop-project
 - application title
 - author: 
-  * id: ---
-  * name: first last
+  * id: 66114540663
+  * name: วสุธร ชมชื่น
 - technology: [pygame/streamlit]
 - application description:
 
