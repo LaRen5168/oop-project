@@ -1,6 +1,6 @@
 # oop-project
 # application title
-*Parallax RPG
+* Parallax RPG
 ## author: 
   * id: 66114540663
   * name: วสุธร ชมชื่น
