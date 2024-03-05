@@ -716,7 +716,7 @@ while run:
             if event.type == pygame.MOUSEBUTTONDOWN:
                 if Quit_image_rect.collidepoint(event.pos) and GAME_OVER == True:
                     sound_Ui.play()
-                    pygame.quit()
+                    run = False
     if GAME_OVER == True and sound_gameover == True:
         sound_game_over.play()
         sound_gameover = False
