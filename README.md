@@ -14,7 +14,7 @@
 เงื่อนไขของมันและเกมของผมก็ได้แนวทางมาจาก เกม Turn Based ทั่วๆไปในร้านค้าออนไลน์
 
 ## presentation: 
-*https://www.canva.com/design/DAF-oay77Ec/p1N75zPcbRkGyZ1lYCGz1w/view)https://www.canva.com/design/DAF-oay77Ec/p1N75zPcbRkGyZ1lYCGz1w/view
+*https://www.canva.com/design/DAF-oay77Ec/p1N75zPcbRkGyZ1lYCGz1w/edit?utm_content=DAF-oay77Ec&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## video: 
 link [public/ubu]
  
